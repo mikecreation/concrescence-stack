@@ -76,7 +76,7 @@ concrescence_stack.tex — Full manuscript (LaTeX)
 
 noetic_stack_demo.py — Core reproducibility/demo script
 
-LICENSE — Open source license (edit as desired)
+LICENSE — Open source license 
 
 README.md — This file
 
