@@ -1,0 +1,14 @@
+cohorts:
+  - id: en_formal
+    weight: 0.22
+  - id: en_casual
+    weight: 0.18
+  - id: es_formal
+    weight: 0.20
+  - id: hi_casual
+    weight: 0.20
+  - id: zh_formal
+    weight: 0.20
+meta:
+  created: 2025-06-20
+  author: Michael Zot
