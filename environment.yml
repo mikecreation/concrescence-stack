@@ -1,0 +1,10 @@
+name: nea            # env name people will create
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10      # pin major/minor so results are stable
+  - numpy
+  - gymnasium
+  - seaborn
+  - pip:
+      - stable-baselines3
