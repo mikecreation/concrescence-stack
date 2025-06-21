@@ -1,0 +1,13 @@
+Custom License by Michael Zot
+
+You may view, use, and modify this code for personal, research, or educational purposes.
+
+You may NOT:
+- Sell this code or any derivative work
+- Use it in a commercial application
+- Remove credit or attribution to the original author
+
+If you use this code publicly, attribution must be prominently displayed:
+"Originally created by Michael Zot (mikecreation on GitHub)"
+
+Contact me for licensing options if you want to use this code commercially.
